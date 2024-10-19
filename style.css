@@ -1,0 +1,18 @@
+h2{
+    color:brown
+
+}label{
+    color:rgb(14, 0, 53)
+}
+input{
+    color:rgb(2, 44, 11)
+}
+.lover{
+    width: 500px; /* Reduced to a practical width */
+    margin-top:3cm; /* Centers the div on the page */
+    margin-left: 11cm;
+    padding: 20px;
+    border: 1px solid black;
+    text-align: left; /* Aligns form text to the left */
+    background-image:url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Ffree-vector%2Flogin-background&psig=AOvVaw1qcUR2uEwc_CiY_smjH8M9&ust=1728313636837000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLDsmZSE-ogDFQAAAAAdAAAAABAE);
+   }

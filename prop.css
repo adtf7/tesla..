@@ -1,0 +1,26 @@
+.head{
+    width: auto;
+    background: skyblue;
+    height: 80px;
+}.left{
+width :10%;
+float: left;
+background-color: silver;
+height: 13cm;
+
+
+}.right{
+    width: 90%;
+    height: 13cm;
+    background-color: rgb(252, 170, 170);
+    float: right;
+
+}.footer{
+    width: 100%;
+    height: 149px;
+background-color: rgb(170, 137, 7);
+}.content{
+    height: 400px;}
+    body{
+        margin: 0;
+    }
